@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamadou BA</h1>
+![Shadir's GitHub Banner]([https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fdevops-banner-concept-development-operation-software-2182404347&psig=AOvVaw0ZZwTU510OKUZZZTq-2bwv&ust=1699703416421000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCICygOauuYIDFQAAAAAdAAAAABAD))
+
 <h3 align="center">A passionate Devops & Cloud from Senegal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momodou44" alt="momodou44" /></a> </p>
