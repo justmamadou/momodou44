@@ -2,10 +2,9 @@
 
 <h3 align="center">Welcome to my profile! I'm Mamadou BA, a data engineer with a passion for DevOps and cloud computing.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momodou44" alt="momodou44" /></a> </p>
 <img src="https://github.com/momodou44/momodou44/assets/66375343/b8021ae3-ea8c-487f-9c25-80de3ef35d5f" alt="Alt text" title="Optional title">
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momodou44" alt="momodou44" /></a> </p>
 
 - 🔭 I’m currently working on **Salesforce Devops**
 
