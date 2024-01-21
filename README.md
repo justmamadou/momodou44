@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamadou BA</h1>
+![Mamadou_image](https://github.com/momodou44/momodou44/assets/66375343/559ca83b-0429-4b18-ae84-371d8db2a8f3)
+
 <h3 align="center">Welcome to my profile! I'm Mamadou BA, a data engineer with a passion for DevOps and cloud computing.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momodou44" alt="momodou44" /></a> </p>
