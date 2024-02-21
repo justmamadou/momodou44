@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momodou44" alt="momodou44" /></a> </p>
 
-- 🔭 I’m currently working on **Salesforce Devops**
+- 🔭 I’m currently working on **Jenkins, Nexus, SonarQube, Docker and Kubernetes**
 
-- 🌱 I’m currently learning **Devops, Devsecops and Data engineering**
+- 🌱 I’m currently learning **Devops, Devsecops, Cloud and Data engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/momodou44](https://github.com/momodou44)
 
